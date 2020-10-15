@@ -8,7 +8,7 @@ READ ME :
 -------------------------------------------------------------
 WHAT I DID IN THE PROJECT ?
 
-ANSWER ---- > REGISTRATION (WHEN USER WILL CREATE A PROFILE ) , UPDATING USER INFRORMATION , DELETION OF USER INFROMATION.
+ANSWER ---- > REGISTRATION (WHEN USER WILL CREATE A PROFILE ), LOGIN, UPDATING USER INFRORMATION.
 
 -------------------------------------------------------------
 -------------------------------------------------------------
